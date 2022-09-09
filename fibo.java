@@ -10,5 +10,7 @@ class fibonacci {
     {
         int n = 9;
         System.out.println(fib(n));
+
+        System.out.println("Adding a line");
     }
 }
