@@ -15,9 +15,9 @@ BSYy
     public static void main(String args[])
     {
 
-        int n = 12;
-
-	System.out.println("goofy lookin fibo");
+f
+dsfds
+        int n = 9;
 
         System.out.println(fib(n));
         System.out.println(fib(n));
