@@ -9,6 +9,7 @@ class fibonacci {
     public static void main(String args[])
     {
         int n = 9;
+        int aleph = 500;
         System.out.println(fib(n));
     }
 }
