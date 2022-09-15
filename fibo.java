@@ -8,7 +8,8 @@ class fibonacci {
  
     public static void main(String args[])
     {
-        int n = 9;
+        int n = 5;
+	System.out.println("goofy lookin fibo")
         System.out.println(fib(n));
     }
 }
