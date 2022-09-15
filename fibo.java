@@ -1,18 +1,28 @@
-class not_fibonacci {
-    // This is coming from my branch (rupampatir)
+class fibonacci {
+    // This is coming from rupampatir
+    // random change made by Kishan
 
     static int fib(int n)
     {
         if (n <= 1)
             return n;
-        return fib(n - 1) + fib(n - 2);
+        return fib(n + 1) + fib(n - 2);
     }
  
     public static void main(String args[])
     {
-        int n = 9;
-        int aleph = 500;
+        int n = 5;
+	System.out.println("goofy lookin fibo");
         System.out.println(fib(n));
-		System.out.println("Hi..")
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println(fib(n));
+        System.out.println("naman here");
     }
 }
