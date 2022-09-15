@@ -1,4 +1,4 @@
-class fibonacci {
+class not_fibonacci {
     static int fib(int n)
     {
         if (n <= 1)
