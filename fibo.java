@@ -10,7 +10,11 @@ class fibonacci {
     public static void main(String args[])
     {
         int n = 9;
+<<<<<<< HEAD
         bleh
+=======
+        blah
+>>>>>>> 8609093c93c6a92afd81f89f8491a55066fffe2d
         System.out.println(fib(n));
     }
 }
